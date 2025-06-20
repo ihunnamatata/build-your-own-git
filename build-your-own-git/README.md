@@ -1,10 +1,10 @@
-# 🧬 Build Your Own Git (Mini Version Control System)
+# Build Your Own Git (Mini Version Control System)
 
 This project recreates the basic versioning features of Git using only Python. It helps explain how `git init`, `add`, `commit`, and `log` actually work — essential for research workflows, model tracking, or regulatory AI systems.
 
 ---
 
-## 📌 Features
+## Features
 
 - `init`: Creates a `.ihgit/` directory to hold commits
 - `add <file>`: Reads file contents and stores its hash
@@ -13,7 +13,7 @@ This project recreates the basic versioning features of Git using only Python. I
 
 ---
 
-## 🧠 Why It Matters in Healthcare AI
+## Why It Matters in Healthcare AI
 
 Many health AI systems need to:
 - Track model updates
@@ -27,7 +27,7 @@ This project gives you a sense of:
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ```bash
 cd src/
@@ -45,7 +45,7 @@ exit
 
 ---
 
-## 🗂️ Structure
+## Structure
 
 - `src/main.py` – All version control logic
 - `.ihgit/` – Auto-created to store commits
@@ -54,7 +54,7 @@ exit
 
 ---
 
-## 👩🏾‍⚕️ Author
+## Author
 
 **Ihunna Amugo**  
 DDS Candidate | MHA | MS | REHS | PhD(c) Computational Engineering  
